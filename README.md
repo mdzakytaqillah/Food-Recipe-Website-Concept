@@ -12,5 +12,7 @@ The concept of a web-based food recipe application. This website is called 'Maha
   Building databases and developing application functions and ensuring that the functions can run well according to expectations.
 - Testing and Fixing (December 21, 2024 - December 31, 2024)
   Conduct web application testing to check for errors and existing problems and make improvements to any problems found.
+# Documentation
+Documentation in the form of a screen recording video can be seen [here](https://www.youtube.com/playlist?list=PLW1hZaKjqQWm8kRdlmniW0BAyFNNhIvYn)
 # Credit
 Thank you to Mr. [Sandhika Galih](https://github.com/sandhikagalih) who has [shared knowledge](https://www.youtube.com/playlist?list=PLFIM0718LjIVEh_d-h5wAjsdv2W4SAtkx) related to implementing [MVC with PHP](https://github.com/sandhikagalih/phpmvc).
